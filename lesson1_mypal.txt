@@ -1,0 +1,13 @@
+Mypal is the worlds leading online stock exchange to buy and sell your friends...for money!  Now that I am learning version control, it should be easier to roll out changes to my programs and track errors as they occur.  While the learning curve might be steep learning version control initially, the time savings at a later point in time will be immense.  
+
+Having easy access to the entire history of a program can be useful to tracking systematic problems in a program, especially if multiple people are contributing to it.  A quick run through can help pin point the root cause of an issue, rather than sifting through potentially thousands of lines of code to find a few single issues.  
+
+Manually committing a file has advantages.  First, one can commit when the program is in a working state.  If one does not have control in this aspect, an unfinished product can be comitted, and thus introduce errors to the project.  
+
+Git works with programs that have multiple files that work together , eg HTML , CSS and JS files.  Google Docs does not need this as their applications are stand alone in nature.  As someone programming a front and back ends of a future online stock exchange, git version control is ideal to perform the task.
+
+git log will tell me what changes were made to the mypal stock exchange.  git diff will be able to tell me what specifically t he changes were.
+
+Being able to revert to previous working versions of software in an easy documentable way, it is reasonable to attempt more complicated things in programming. 
+
+The purpose of git is to create mypal.com.  The worlds only online exchange to buy and sell your friends.
