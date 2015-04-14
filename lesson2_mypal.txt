@@ -1,3 +1,0 @@
-git init creates the hidden file structure to begin comitting changes to program files within the directory.   For mypal, it begins the epic sojourn into the great unknown..
-
-The staging area allows one to preview and change (if nessesary) what will be comitted to git.  The overall value is that you can group files to comitt without being as error prone as just simply comitting and being done with it.  
